@@ -1,0 +1,2 @@
+# HWID
+Client HWID
